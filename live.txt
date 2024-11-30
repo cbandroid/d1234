@@ -146,7 +146,7 @@ CCTV-1 综合,http://60.12.183.46:9901/tsfile/live/0001_1.m3u8?key=txiptv&playli
 CCTV-1 综合,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://43.139.182.244:9901aaaaaaaa
 CCTV-1 综合,http://10.10.10.1:8866/udp/239.12.22.3:10001
-CCTV-2 财经,http://123.7.110.43:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://123.7.110.43:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV-2 财经,http://118.122.2.29:9999/hls/2/index.m3u8
@@ -208,7 +208,6 @@ CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 CCTV-2 财经,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8?
 CCTV-2 财经,http://123.132.226.194:31028/hls/241/index.m3u8
 CCTV-2 财经,http://222.85.207.79:9901/hls/2/index.m3u8
-CCTV-2 财经,http://122.152.202.33/s/9b29914a/index.m3u8?id=832
 CCTV-2 财经,http://maomao.kandiantv.cn/migu.php?id=cctv2
 CCTV-2 财经,https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
@@ -373,6 +372,7 @@ CCTV-2 财经,http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playli
 CCTV-2 财经,http://220.202.98.52:14901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://43.139.182.244:9901aaaaaaaa
 CCTV-2 财经,http://43.139.182.244:9901rtsp://113.136.42.45:554/PLTV/88888888/224/3221226134/10000100000000060000000001794850_0.smil
+CCTV-2 财经,
 CCTV-3 综艺,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://123.7.110.43:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -8994,7 +8994,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807
 贝爷max,http://159.75.85.63:35455/douyu/4332
 贝爷影厅,http://159.75.85.63:35455/douyu/252802
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
-浙江频道,#genre#
+浙江,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -9248,7 +9248,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807
 湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&fbl=
 嘉善新闻综合,https://play-hsbj.vzan.com/slowlive/633251673265558519/live.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上海频道,#genre#
+上海,#genre#
 上海东方购物频道,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
@@ -9955,7 +9955,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 赤峰新闻综合频道,http://stream.cfrtv.cn/cfzh/sd/live.m3u8?_upt=485bf1651707377523
 赤峰影视娱乐频道,http://stream.cfrtv.cn/cfys/sd/live.m3u8?_upt=4d785fac1707374122
 赤峰经济服务频道,http://stream.cfrtv.cn/cfjj/sd/live.m3u8?_upt=1953032c1707377535
-陕西频道,#genre#
+陕西,#genre#
 安康综合,http://mmitv.top/test/tianma.php?id=akzh
 安康公共,http://mmitv.top/test/tianma.php?id=akgg
 安康教育,http://mmitv.top/test/tianma.php?id=akjy
@@ -10040,7 +10040,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 陕西农林卫视,http://stream.snrtv.com/sxbc-nl-hsxO03.m3u8
 延安一套新闻综合频道,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 延安二套公共频道,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-广东频道,#genre#
+广东,#genre#
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 GRTN文化,http://8.217.90.28:9999/触电.php?id=gdwh
 梅州综合,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
