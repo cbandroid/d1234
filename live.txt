@@ -1835,8 +1835,8 @@ CCTV-10 科教,http://183.66.15.146:60901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-10 科教,http://118.249.22.148:8989/udp/239.76.253.160:9000
 CCTV-11 戏曲,http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://118.122.2.29:9999/hls/11/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8
 CCTV-11 戏曲,http://123.7.110.43:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11 戏曲,http://zzssw01.55555.io:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://1.31.106.236:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
